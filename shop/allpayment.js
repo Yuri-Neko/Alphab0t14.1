@@ -1,27 +1,27 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `Kyouka
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ 
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ 
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ 
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 
 	
-Semuanya atas nama RI****DI
+
 
 *📲 PULSA*
 
